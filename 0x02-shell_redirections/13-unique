@@ -1,2 +1,2 @@
 #!/bin/bas
-sort |uniq -u
+sort | uniq -u
