@@ -1,0 +1,4 @@
+chmod +x *
+git add .
+git commit -m "shell is awsome"
+git push
