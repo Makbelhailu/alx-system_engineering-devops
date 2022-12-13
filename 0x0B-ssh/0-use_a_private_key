@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#connect to 8.8.8.8
+
+ssh -i ~/.ssh/school ubuntu@100.25.158.214
